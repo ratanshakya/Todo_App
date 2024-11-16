@@ -78,12 +78,9 @@ sudo systemctl status mongod
 
 ## Step 6: Clone the Application Code
 
-Push your application code to GitHub using the following commands (if not already done):
+Push your application code to GitHub using the following commands :
 
 ```
-git init
-git add .
-git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/ratanshakya/Todo_App.git
 git push -u origin main 
