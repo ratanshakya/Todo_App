@@ -1,13 +1,11 @@
-CLOUD AMBASSADORS ASSESSMENT - 1
 # Deploy a Simple Web Application on GCP
+In this guide, I’ll show you how to deploy a Node.js application with Express and MongoDB using GCP’s Compute Engine. Let’s get started!
 
-In this documentation, I’ll show you how to deploy a Node.js application with Express and MongoDB using GCP’s Compute Engine. Let’s get started!
-
-Step 1: Login to GCP
+## Step 1: Login to GCP
 Open Google Cloud Console.
 Log in using your GCP credentials.
 
-Step 2: Create a Virtual Machine (VM)
+## Step 2: Create a Virtual Machine (VM)
 Search for Compute Engine in the GCP search bar.
 Click on VM Instances → Create Instance.
 Provide the required details:
@@ -20,7 +18,7 @@ Click Create to launch the instance.
 
 
 
-Step 3: SSH into the Instance
+## Step 3: SSH into the Instance
 Once the instance is running, click SSH next to your instance in the Compute Engine dashboard to open a terminal session.
 
 
@@ -28,9 +26,9 @@ Just for extra permission to go Root User—-> sudo su
 
 
 
-Step 4: Install Node.js
+## Step 4: Install Node.js
 Run the following commands to install Node.js on your instance:
-curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
+* curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash - *
 sudo apt install -y nodejs
 
 
