@@ -86,7 +86,7 @@ git add .
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/ratanshakya/Todo_App.git
-git push -u origin main https://github.com/ratanshakya/Todo_App.git
+git push -u origin main 
 ```
 
 ![Screenshot 2024-11-16 125126](https://github.com/user-attachments/assets/f9b19f20-3924-442f-8af6-86593190bc9c)
