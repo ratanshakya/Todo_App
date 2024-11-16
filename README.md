@@ -86,14 +86,14 @@ git add .
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/ratanshakya/Todo_App.git
-git push -u origin main https://<userName>:<Token>@github.com/ratanshakya/Todo_App.git
+git push -u origin main https://github.com/ratanshakya/Todo_App.git
 ```
 
 ![Screenshot 2024-11-16 125126](https://github.com/user-attachments/assets/f9b19f20-3924-442f-8af6-86593190bc9c)
 
 #### Clone the repository onto your instance:
 ```
-git clone https://<userName>:<Token>@github.com/ratanshakya/Todo_App.git
+git clone https://github.com/ratanshakya/Todo_App.git
 cd /home/ubuntu/Todo_App
 ```
 ![Screenshot 2024-11-16 125701](https://github.com/user-attachments/assets/8b5cf4d1-6336-4f92-98a5-358906eae1f6)
