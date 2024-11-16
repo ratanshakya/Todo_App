@@ -124,7 +124,7 @@ Source IP Ranges: 0.0.0.0/0.
 Protocols and Ports: Select TCP and specify port 3000.
 Save the rule.
 
-![Screenshot 2024-11-16 144502](https://github.com/user-attachments/assets/faff9ef6-8c9b-4c24-a067-3442abc8acc8)
+![Screenshot 2024-11-16 180058](https://github.com/user-attachments/assets/b313e7c5-7c86-4cfb-8e02-a5324a9c3c23)
 
 
 ## Step 9: Start the Application
